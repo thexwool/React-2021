@@ -1,5 +1,3 @@
 import React from "react"
+import { App } from './App'
 
-function App(){
-    return <span>Hello there</span>
-}
